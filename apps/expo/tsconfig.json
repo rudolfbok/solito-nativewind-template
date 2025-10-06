@@ -1,0 +1,7 @@
+{
+	"compilerOptions": {
+		"jsxImportSource": "nativewind"
+	},
+	"extends": "../../tsconfig",
+	"include": ["**/*.ts", "**/*.tsx", "nativewind-env.d.ts"]
+}
